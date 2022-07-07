@@ -1,1 +1,1 @@
-# vulkan-test
+A simple Vulkan example program.
